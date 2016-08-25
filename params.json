@@ -1,0 +1,6 @@
+{
+  "name": "Webcam",
+  "tagline": "webcam capture using openCV librrary in java",
+  "body": "Project goal is to give users possibility to access build-in or connected via USB webcams or remote IP / network cameras directly from Java code. Using provided libraries user is able to read camera images and detect motion.\r\n\r\n### Authors and Contributors\r\nAnmol Mann, currently pursuing undergraduation degree in bachelor's of computer sciences.\r\n\r\n### Support or Contact\r\nmann.anmol15@gmail.com",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
